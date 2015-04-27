@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jekyll Nowを用いてブログ体験中です。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+現在のところJavaメインなプログラマ。JVM言語に興味があってScalaとGroovyを積極的に使用中。ゲーム開発ではlibGDXを勉強中。
 
 ### Contact me
 
